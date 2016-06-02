@@ -1,0 +1,4 @@
+[gerrit]
+host=gerrit.fkinternal.com
+port=29418
+project=sudhanshu-gupta/ChatServer
